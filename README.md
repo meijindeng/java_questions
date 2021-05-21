@@ -20,5 +20,6 @@
 ### 3、com.dmj.io
 #### file
 * Test1：创建文件的三个方式。
+* Test2：获取文件基本信息。
 #### io_stream
 * Test1：使用stream流读取文本信息。
