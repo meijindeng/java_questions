@@ -6,6 +6,7 @@
 #### list
 
 * Test1：怎么将List集合中的元素去重？
+* Test2：采用lambda表达式遍历list集合。
 
 #### map
 
