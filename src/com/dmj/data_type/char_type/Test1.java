@@ -5,7 +5,7 @@ package com.dmj.data_type.char_type;
  */
 public class Test1 {
     public static void main(String[] args) {
-        // ^ :二进制按位异或。
+        // ^ :二进制按位异或，ascii表。
         // 97（a）二进制是0110 0001，32对应0010 0000异或结果为0100 0001，转换十进制为65（A）
         char letter1 = 'a';
         System.out.println((char)(letter1 ^ 32));
