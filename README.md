@@ -24,3 +24,7 @@
 * Test3：目录操作以及文件删除。
 #### io_stream
 * Test1：使用stream流读取文本信息。
+
+### 4、com.dmj.loop
+#### for_loop
+* Test1：使用for嵌套实现九九乘法表。
