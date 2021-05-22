@@ -16,6 +16,7 @@
 #### int_type
 * Test1：使用Lambda表达式计算1-100的偶数和。
 * Test2：寻找水仙花数。
+* Test3：鸡兔同笼。
 
 
 ### 3、com.dmj.io
