@@ -2,7 +2,12 @@
 
 ## 包结构说明：
 
-### 1、com.dmj.collection
+### 1、com.dmj.arrays
+#### one_dms
+#### two_dms
+* Test1：杨辉三角。
+
+### 2、com.dmj.collection
 #### list
 * Test1：怎么将List集合中的元素去重？
 * Test2：采用lambda表达式遍历list集合。
@@ -10,7 +15,7 @@
 * Test1：采用lambda表达式遍历map集合。
 
 
-### 2、com.dmj.data_type
+### 3、com.dmj.data_type
 #### char_type
 * Test1：如何将小写字母快速的转换为大写字母？
 #### int_type
@@ -19,7 +24,7 @@
 * Test3：鸡兔同笼。
 
 
-### 3、com.dmj.io
+### 4、com.dmj.io
 #### file
 * Test1：创建文件的三个方式。
 * Test2：获取文件基本信息。
@@ -27,6 +32,6 @@
 #### io_stream
 * Test1：使用stream流读取文本信息。
 
-### 4、com.dmj.loop
+### 5、com.dmj.loop
 #### for_loop
 * Test1：使用for嵌套实现九九乘法表。
