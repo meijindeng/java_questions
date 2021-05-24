@@ -4,8 +4,12 @@
 
 ### 1、com.dmj.arrays
 #### one_dms
+
 #### two_dms
 * Test1：杨辉三角。
+
+### 2、com.dmj.cla_and_obj
+* Test1：对一个类中的对象数组进行排序
 
 ### 2、com.dmj.collection
 #### list
