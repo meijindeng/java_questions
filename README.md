@@ -26,7 +26,7 @@
 * Test1：使用Lambda表达式计算1-100的偶数和。
 * Test2：寻找水仙花数。
 * Test3：鸡兔同笼。
-
+* Test4：将int数组转换成Integer数组。
 
 ### 4、com.dmj.io
 #### file
