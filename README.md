@@ -11,7 +11,7 @@
 ### 2、com.dmj.cla_and_obj
 * Test1：对一个类中的对象数组进行排序
 
-### 2、com.dmj.collection
+### 3、com.dmj.collection
 #### list
 * Test1：怎么将List集合中的元素去重？
 * Test2：采用lambda表达式遍历list集合。
@@ -19,7 +19,7 @@
 * Test1：采用lambda表达式遍历map集合。
 
 
-### 3、com.dmj.data_type
+### 4、com.dmj.data_type
 #### char_type
 * Test1：如何将小写字母快速的转换为大写字母？
 #### int_type
@@ -28,7 +28,10 @@
 * Test3：鸡兔同笼。
 * Test4：将int数组转换成Integer数组。
 
-### 4、com.dmj.io
+### 5、com.dmj.dbms
+* create_db.md：数据库的创建、删除、备份、恢复等操作
+
+### 6、com.dmj.io
 #### file
 * Test1：创建文件的三个方式。
 * Test2：获取文件基本信息。
@@ -36,6 +39,6 @@
 #### io_stream
 * Test1：使用stream流读取文本信息。
 
-### 5、com.dmj.loop
+### 7、com.dmj.loop
 #### for_loop
 * Test1：使用for嵌套实现九九乘法表。
