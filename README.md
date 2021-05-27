@@ -9,7 +9,7 @@
 * Test1：杨辉三角。
 
 ### 2、com.dmj.cla_and_obj
-* Test1：对一个类中的对象数组进行排序
+* Test1：对一个类中的对象数组进行排序。
 
 ### 3、com.dmj.collection
 #### list
@@ -29,7 +29,9 @@
 * Test4：将int数组转换成Integer数组。
 
 ### 5、com.dmj.dbms
-* create_db.md：数据库的创建、删除、备份、恢复等操作
+* create_db.md：数据库的创建、删除、备份、恢复等操作。
+* create_db_table.md：数据库表的创建以及一些基本操作。
+* db_column_type.md：MySQL列（数据）类型。
 
 ### 6、com.dmj.io
 #### file
