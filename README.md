@@ -32,6 +32,7 @@
 * create_db.md：数据库的创建、删除、备份、恢复等操作。
 * create_db_table.md：数据库表的创建以及一些基本操作。
 * db_column_type.md：MySQL列（数据）类型。
+* create_emp_table.md：创建表、修改表、删除表案例。
 
 ### 6、com.dmj.io
 #### file
