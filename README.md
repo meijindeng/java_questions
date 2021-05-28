@@ -33,6 +33,7 @@
 * create_db_table.md：数据库表的创建以及一些基本操作。
 * db_column_type.md：MySQL列（数据）类型。
 * create_emp_table.md：创建表、修改表、删除表案例。
+* db_table_crud.md：数据库的增删改查操作（CRUD）。
 
 ### 6、com.dmj.io
 #### file
