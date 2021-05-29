@@ -5,6 +5,7 @@
 ### 1、com.dmj.arrays
 #### one_dms
 * Test1：计算一组数组的和。
+* Test2：数组的三种使用方式。
 #### two_dms
 * Test1：杨辉三角。
 
