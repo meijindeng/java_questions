@@ -34,6 +34,7 @@
 * db_column_type.md：MySQL列（数据）类型。
 * create_emp_table.md：创建表、修改表、删除表案例。
 * db_table_crud.md：数据库的增删改查操作（CRUD）。
+* db_table_function.md：数据库常用函数。
 
 ### 6、com.dmj.io
 #### file
