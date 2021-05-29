@@ -4,7 +4,7 @@
 
 ### 1、com.dmj.arrays
 #### one_dms
-
+* Test1：计算一组数组的和。
 #### two_dms
 * Test1：杨辉三角。
 
