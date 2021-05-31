@@ -50,3 +50,7 @@
 ### 7、com.dmj.loop
 #### for_loop
 * Test1：使用for嵌套实现九九乘法表。
+
+### 8、com.dmj.reflection
+#### lab1
+* Test1：通过反射获取类、方法、接口、父类、构造方法、属性以及对象。
