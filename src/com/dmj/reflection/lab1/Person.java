@@ -39,6 +39,14 @@ public class Person implements MyInterface1, MyInterface2 {
     public void setAge(int age) {
         this.age = age;
     }
+    //无参私有方法
+    private void privateMethod(){
+        System.out.println("无参privateMethod...");
+    }
+    //有参私有方法
+    private void privateMethod2(String name){
+        System.out.println("有参privateMethod2..." + name);
+    }
 
     public static void staticMethod(){
         System.out.println("staticMethod...");

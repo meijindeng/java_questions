@@ -9,6 +9,7 @@
 - 生成动态代理。
 
 ## 具体实现
+### Test1
 - 通过反射获取类。三种方式：Class.forName();  类名.class;  对象.getClass()。
 
 - 通过反射获取所有的方法。
@@ -30,3 +31,21 @@
   2、通过getDeclaredFields()获取当前类的所有属性（1.只能是当前类；2.忽略访问修饰符限制）。
 
 - 通过反射获取当前所代表类（接口）的对象（实例）。通过newInstance()获取。
+
+### Test2
+
+- 通过反射获取Person类；
+
+- 通过newInstance()得到对象的实例；
+
+- 通过反射操作属性和方法；
+
+  1、getDeclaredField()获取某一个属性，传入哪个属性设置哪个属性（getDeclaredField没有s）；
+
+  2、有些属性是private私有的，只能通过set进行赋值，此时需要修改属性的访问权限，设置setAccessible为true，暂时把权限打开；
+
+  3、getDeclaredMethod()获取某一个方法，传入方法名和参数（getDeclaredMethod没有s）；
+
+  4、有些方法是private私有的，也是需要打开修改私有方法的访问权限；
+
+  5、属性通过set赋值，方法通过invoke。
