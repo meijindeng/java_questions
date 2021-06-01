@@ -1,5 +1,6 @@
 package com.dmj.reflection.lab1;
 
+import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -47,8 +48,19 @@ public class Test2 {
         method2.invoke(per,"meijindeng");//属性通过set赋值，方法通过invoke
     }
 
+    //通过反射操作构造方法
+    public static void demo3() throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchMethodException, InvocationTargetException {
+        //通过反射获取类
+        Class c = Class.forName("com.dmj.reflection.lab1.Person");
+        Constructor constructor = c.getConstructor();//无参构造可为Null或者不传值，若是有参则为：数据类型.class
+        System.out.println(constructor);
+        Person instance = (Person)constructor.newInstance();//因为constructor无参，所以不需要传值
+        System.out.println(instance.hashCode());
+    }
+
     public static void main(String[] args) throws IllegalAccessException, InstantiationException, ClassNotFoundException, NoSuchFieldException, NoSuchMethodException, InvocationTargetException {
-        demo1();
-        demo2();
+        //demo1();
+        //demo2();
+        demo3();
     }
 }
