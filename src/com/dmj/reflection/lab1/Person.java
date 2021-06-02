@@ -47,6 +47,9 @@ public class Person implements MyInterface1, MyInterface2 {
     private void privateMethod2(String name){
         System.out.println("有参privateMethod2..." + name);
     }
+    //该方法可以设置任意值，可以设置int类型、String类型，可以给任何对象赋值
+    public void setProperty(){
+    }
 
     public static void staticMethod(){
         System.out.println("staticMethod...");

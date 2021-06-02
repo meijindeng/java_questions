@@ -1,0 +1,2 @@
+classname = com.dmj.reflection.lab1.Person
+methodname = staticMethod
