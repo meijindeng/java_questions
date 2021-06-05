@@ -47,11 +47,21 @@
 #### io_stream
 * Test1：使用stream流读取文本信息。
 
-### 7、com.dmj.loop
+### 7、com.dmj.json
+#### lab1
+* Address：地址实体类，包含家庭和学校地址。
+* Person：学生实体类，包含姓名、年龄和地址属性。
+* Test1：将Map集合、普通对象（Javabean）、字符串转换为JSON对象。
+#### lab2
+* per.json：用于JSON文件转换JSON对象。
+* per1.json：用于JSON对象转换JSON文件。
+* Test1：JSON文件与JSON对象之间的转换。
+
+### 8、com.dmj.loop
 #### for_loop
 * Test1：使用for嵌套实现九九乘法表。
 
-### 8、com.dmj.reflection
+### 9、com.dmj.reflection
 #### lab1
 * MyInterface1：随意一个接口1。
 * MyInterface2：随意一个接口2。
@@ -63,3 +73,17 @@
 
 #### lab2
 * Test1：通过反射操作数组。
+
+### 10、com.dmj.socket
+#### lab1
+* MyServer：服务端发送"hello"，接收客户端的反馈"world"。
+* MyClient：客户端接收"hello"，向服务端反馈"world"。
+
+#### lab2
+* MyServer2：服务端发送文件。
+* MyClient2：客户端接收文件。
+
+#### lab3
+* MyServer3：服务端发送文件。
+* MyClient3：客户端接收文件。
+* MyDownload：线程类。

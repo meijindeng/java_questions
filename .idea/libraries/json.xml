@@ -2,6 +2,7 @@
   <library name="json">
     <CLASSES>
       <root url="jar://F:/java_resources/json.jar!/" />
+      <root url="jar://F:/java_resources/commons-io-2.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

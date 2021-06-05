@@ -1,0 +1,5 @@
+{
+  "ww":{"address":{"schoolAddress":"南京","homeAddress":"衢州"},"name":"ww","age":22},
+  "zs":{"address":{"schoolAddress":"宁波","homeAddress":"杭州"},"name":"zs","age":20},
+  "ls":{"address":{"schoolAddress":"上海","homeAddress":"台州"},"name":"ls","age":21}
+}

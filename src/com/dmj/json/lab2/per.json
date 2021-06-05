@@ -1,0 +1,9 @@
+{
+  "name" : "zhangsan",
+  "age" : 23,
+  "address" :
+  {
+    "homeAddress" : "杭州",
+    "schoolAddress" : "宁波"
+  }
+}
