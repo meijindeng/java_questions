@@ -56,6 +56,8 @@
 * per.json：用于JSON文件转换JSON对象。
 * per1.json：用于JSON对象转换JSON文件。
 * Test1：JSON文件与JSON对象之间的转换。
+#### lab3
+* Test1：JSON数组的使用。
 
 ### 8、com.dmj.loop
 #### for_loop

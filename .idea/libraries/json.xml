@@ -3,6 +3,12 @@
     <CLASSES>
       <root url="jar://F:/java_resources/json.jar!/" />
       <root url="jar://F:/java_resources/commons-io-2.6.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/commons-lang-2.6.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/commons-logging-1.2.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://F:/java_resources/json-lib/json-lib-2.4-jdk15.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
